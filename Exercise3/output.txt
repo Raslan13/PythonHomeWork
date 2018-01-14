@@ -1,0 +1,109 @@
+
+Protocol:	OSPF OSPF external type 2
+Prefix:		10.110.0.0
+AD/Metric:	160/5
+Next-hop:	10.119.254.6
+Last Update:	0:01:00
+Outbound Int:	 Ethernet2
+Protocol:	EIGRP 
+Prefix:		10.67.10.0
+AD/Metric:	200/128
+Next-hop:	10.119.254.244
+Last Update:	0:02:22
+Outbound Int:	 Ethernet2
+Protocol:	OSPF OSPF external type 2
+Prefix:		10.68.132.0
+AD/Metric:	160/5
+Next-hop:	10.119.254.6
+Last Update:	0:00:59
+Outbound Int:	 Ethernet2
+Protocol:	OSPF OSPF external type 2
+Prefix:		10.130.0.0
+AD/Metric:	160/5
+Next-hop:	10.119.254.6
+Last Update:	0:00:59
+Outbound Int:	 Ethernet2
+Protocol:	EGP 
+Prefix:		10.128.0.0
+AD/Metric:	200/128
+Next-hop:	10.119.254.244
+Last Update:	0:02:22
+Outbound Int:	 Ethernet2
+Protocol:	EGP 
+Prefix:		10.129.0.0
+AD/Metric:	200/129
+Next-hop:	10.119.254.240
+Last Update:	0:02:22
+Outbound Int:	 Ethernet2
+Protocol:	EGP 
+Prefix:		10.65.129.0
+AD/Metric:	200/128
+Next-hop:	10.119.254.244
+Last Update:	0:02:22
+Outbound Int:	 Ethernet2
+Protocol:	EGP 
+Prefix:		10.10.0.0
+AD/Metric:	200/128
+Next-hop:	10.119.254.244
+Last Update:	0:02:22
+Outbound Int:	 Ethernet2
+Protocol:	EGP 
+Prefix:		10.75.139.0
+AD/Metric:	200/129
+Next-hop:	10.119.254.240
+Last Update:	0:02:23
+Outbound Int:	 Ethernet2
+Protocol:	EGP 
+Prefix:		10.16.208.0
+AD/Metric:	200/128
+Next-hop:	10.119.254.244
+Last Update:	0:02:22
+Outbound Int:	 Ethernet2
+Protocol:	EGP 
+Prefix:		10.84.148.0
+AD/Metric:	200/129
+Next-hop:	10.119.254.240
+Last Update:	0:02:23
+Outbound Int:	 Ethernet2
+Protocol:	EGP 
+Prefix:		10.31.223.0
+AD/Metric:	200/128
+Next-hop:	10.119.254.244
+Last Update:	0:02:22
+Outbound Int:	 Ethernet2
+Protocol:	EGP 
+Prefix:		10.44.236.0
+AD/Metric:	200/129
+Next-hop:	10.119.254.240
+Last Update:	0:02:23
+Outbound Int:	 Ethernet2
+Protocol:	EGP 
+Prefix:		10.141.0.0
+AD/Metric:	200/129
+Next-hop:	10.119.254.240
+Last Update:	0:02:22
+Outbound Int:	 Ethernet2
+Protocol:	EGP 
+Prefix:		10.140.0.0
+AD/Metric:	200/129
+Next-hop:	10.119.254.240
+Last Update:	0:02:23
+Outbound Int:	 Ethernet2
+Protocol:	IS:IS IS:IS level:2
+Prefix:		10.89.67.0
+AD/Metric:	115/20
+Next-hop:	10.89.64.240
+Last Update:	0:00:12
+Outbound Int:	 Ethernet0
+Protocol:	IS:IS IS:IS level:2
+Prefix:		10.89.66.0
+AD/Metric:	115/20
+Next-hop:	10.89.64.240
+Last Update:	0:00:12
+Outbound Int:	 Ethernet0
+Protocol:	NHRP 
+Prefix:		172.16.99.0
+AD/Metric:	250/1
+Next-hop:	10.1.1.99
+Last Update:	00:11:43
+Outbound Int:	 Tunnel0
